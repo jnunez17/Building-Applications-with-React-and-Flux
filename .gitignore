@@ -6,4 +6,5 @@
 *.sublime-project
 *.sublime-workspace
 
+dist/
 node_modules/
